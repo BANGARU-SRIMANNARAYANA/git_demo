@@ -4,3 +4,9 @@ h1{
 p{
     color: blue;
 }
+
+.feature1{
+    border: 2mm;
+    margin: 2mm;
+    padding-top: 5mm;
+}
